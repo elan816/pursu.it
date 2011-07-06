@@ -1,0 +1,881 @@
+Tpursu.it
+v7
+r0
+t327795983.071084
+cCheck dependencies
+cProcessInfoPlistFile /Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator/pursu.it.app/Info.plist pursu_it-Info.plist
+cCompileXIB /Users/Elan/Dropbox/pursu.it/pursu.it/MainWindow.xib
+cCompileXIB /Users/Elan/Dropbox/pursu.it/pursu.it/pursu_itViewController.xib
+cCpResource build/Debug-iphonesimulator/pursu.it.app/FBConnect.bundle "../../Things to Use/facebook/FBConnect.bundle"
+cProcessPCH /var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-dxwkknaguqcpqhceeqbrylpwtyqx/pursu_it_Prefix.pch.gch pursu_it_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/main.o /Users/Elan/Dropbox/pursu.it/pursu.it/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/pursu_itAppDelegate.o /Users/Elan/Dropbox/pursu.it/pursu.it/Classes/pursu_itAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/pursu_itViewController.o /Users/Elan/Dropbox/pursu.it/pursu.it/Classes/pursu_itViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/FBConnectGlobal.o "/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBConnectGlobal.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/FBSession.o "/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBSession.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/FBRequest.o "/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBRequest.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/FBXMLHandler.o "/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBXMLHandler.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/FBLoginButton.o "/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBLoginButton.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/FBDialog.o "/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBDialog.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/FBLoginDialog.o "/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBLoginDialog.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/FBPermissionDialog.o "/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBPermissionDialog.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/FBStreamDialog.o "/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBStreamDialog.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/CommonCrypto/CommonDigest.h
+c000000004A11E8210000000000002407
+t1242687521
+s9223
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/dlfcn.h
+c000000004AB98DF40000000000000B1C
+t1253674484
+s2844
+
+N/Users/Elan/Dropbox/Things to Use/facebook/FBConnect/FBConnectGlobal.h
+c000000004B5050760000000000001E6E
+t1263554678
+s7790
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Elan/Dropbox/Things to Use/facebook/FBConnect/FBDialog.h
+c000000004B6134400000000000000EE9
+t1264661568
+s3817
+i"FBConnect/FBConnectGlobal.h"
+
+N/Users/Elan/Dropbox/Things to Use/facebook/FBConnect/FBLoginButton.h
+c000000004B50507600000000000005A1
+t1263554678
+s1441
+i"FBConnect/FBSession.h"
+
+N/Users/Elan/Dropbox/Things to Use/facebook/FBConnect/FBLoginDialog.h
+c000000004B50507600000000000002F1
+t1263554678
+s753
+i"FBConnect/FBDialog.h"
+i"FBConnect/FBRequest.h"
+
+N/Users/Elan/Dropbox/Things to Use/facebook/FBConnect/FBPermissionDialog.h
+c000000004B505076000000000000038C
+t1263554678
+s908
+i"FBConnect/FBLoginDialog.h"
+
+N/Users/Elan/Dropbox/Things to Use/facebook/FBConnect/FBRequest.h
+c000000004B5050760000000000001159
+t1263554678
+s4441
+i"FBConnect/FBConnectGlobal.h"
+
+N/Users/Elan/Dropbox/Things to Use/facebook/FBConnect/FBSession.h
+c000000004B5050760000000000001579
+t1263554678
+s5497
+i"FBConnect/FBConnectGlobal.h"
+
+N/Users/Elan/Dropbox/Things to Use/facebook/FBConnect/FBStreamDialog.h
+c000000004B505076000000000000083F
+t1263554678
+s2111
+i"FBConnect/FBDialog.h"
+
+N/Users/Elan/Dropbox/Things to Use/facebook/FBXMLHandler.h
+c000000004B50507600000000000003C9
+t1263554678
+s969
+i"FBConnect/FBConnectGlobal.h"
+
+N/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBConnect.bundle
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBConnect/FBConnect.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBConnectGlobal.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBDialog.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBLoginButton.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBLoginDialog.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBPermissionDialog.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBRequest.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBSession.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBStreamDialog.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBXMLHandler.h
+c000000004B50507600000000000003C9
+t1263554678
+s969
+i"FBConnect/FBConnectGlobal.h"
+
+N/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBXMLHandler.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Elan/Dropbox/pursu.it/pursu.it/Classes/pursu_itAppDelegate.h
+c000000004DD98CAF0000000000000281
+t1306102959
+s641
+i<UIKit/UIKit.h>
+i"FBConnect/FBConnect.h"
+i"FBConnect/FBSession.h"
+
+N/Users/Elan/Dropbox/pursu.it/pursu.it/Classes/pursu_itAppDelegate.m
+c000000004DD97CC90000000000000AF0
+t1306098889
+s2800
+i"pursu_itAppDelegate.h"
+i"pursu_itViewController.h"
+
+N/Users/Elan/Dropbox/pursu.it/pursu.it/Classes/pursu_itViewController.h
+c000000004DD9755A000000000000030C
+t1306096986
+s780
+i<UIKit/UIKit.h>
+i"FBConnect/FBConnect.h"
+i"FBConnect/FBSession.h"
+
+N/Users/Elan/Dropbox/pursu.it/pursu.it/Classes/pursu_itViewController.m
+c000000004DD97B930000000000000F0D
+t1306098579
+s3853
+i"pursu_itViewController.h"
+i"pursu_itAppDelegate.h"
+
+N/Users/Elan/Dropbox/pursu.it/pursu.it/MainWindow.xib
+c000000004DD964FD0000000000004E35
+t1306092797
+s20021
+
+N/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator/pursu.it.app
+t2
+s0
+
+N/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator/pursu.it.app.dSYM
+t2
+s0
+
+N/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator/pursu.it.app/FBConnect.bundle
+t2
+s0
+
+N/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator/pursu.it.app/Info.plist
+t1306103136
+s595
+
+N/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator/pursu.it.app/MainWindow.nib
+t1306103162
+s1125
+
+N/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator/pursu.it.app/PkgInfo
+t1306103136
+s8
+
+N/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator/pursu.it.app/pursu.it
+t2
+s0
+
+N/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator/pursu.it.app/pursu_itViewController.nib
+t1306103162
+s795
+
+N/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/FBConnectGlobal.o
+t2
+s0
+
+N/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/FBDialog.o
+t2
+s0
+
+N/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/FBLoginButton.o
+t2
+s0
+
+N/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/FBLoginDialog.o
+t2
+s0
+
+N/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/FBPermissionDialog.o
+t2
+s0
+
+N/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/FBRequest.o
+t2
+s0
+
+N/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/FBSession.o
+t2
+s0
+
+N/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/FBStreamDialog.o
+t2
+s0
+
+N/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/FBXMLHandler.o
+t2
+s0
+
+N/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/main.o
+t1306103182
+s6300
+
+N/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/pursu.it.LinkFileList
+c000000004DD98D600000000000000630
+t1306103136
+s1584
+
+N/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/pursu_itAppDelegate.o
+t1306103182
+s56792
+
+N/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/pursu_itViewController.o
+t1306103183
+s63628
+
+N/Users/Elan/Dropbox/pursu.it/pursu.it/facebook/src/FBConnect/FBConnect.h
+c000000004B5050760000000000000324
+t1263554678
+s804
+i"FBConnect/FBSession.h"
+i"FBConnect/FBRequest.h"
+i"FBConnect/FBLoginButton.h"
+i"FBConnect/FBLoginDialog.h"
+i"FBConnect/FBPermissionDialog.h"
+i"FBConnect/FBStreamDialog.h"
+
+N/Users/Elan/Dropbox/pursu.it/pursu.it/facebook/src/FBConnect/FBConnectGlobal.h
+c000000004B5050760000000000001E6E
+t1263554678
+s7790
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Elan/Dropbox/pursu.it/pursu.it/facebook/src/FBConnect/FBDialog.h
+c000000004B6134400000000000000EE9
+t1264661568
+s3817
+i"FBConnect/FBConnectGlobal.h"
+
+N/Users/Elan/Dropbox/pursu.it/pursu.it/facebook/src/FBConnect/FBLoginButton.h
+c000000004B50507600000000000005A1
+t1263554678
+s1441
+i"FBConnect/FBSession.h"
+
+N/Users/Elan/Dropbox/pursu.it/pursu.it/facebook/src/FBConnect/FBLoginDialog.h
+c000000004B50507600000000000002F1
+t1263554678
+s753
+i"FBConnect/FBDialog.h"
+i"FBConnect/FBRequest.h"
+
+N/Users/Elan/Dropbox/pursu.it/pursu.it/facebook/src/FBConnect/FBPermissionDialog.h
+c000000004B505076000000000000038C
+t1263554678
+s908
+i"FBConnect/FBLoginDialog.h"
+
+N/Users/Elan/Dropbox/pursu.it/pursu.it/facebook/src/FBConnect/FBRequest.h
+c000000004B5050760000000000001159
+t1263554678
+s4441
+i"FBConnect/FBConnectGlobal.h"
+
+N/Users/Elan/Dropbox/pursu.it/pursu.it/facebook/src/FBConnect/FBSession.h
+c000000004B5050760000000000001579
+t1263554678
+s5497
+i"FBConnect/FBConnectGlobal.h"
+
+N/Users/Elan/Dropbox/pursu.it/pursu.it/facebook/src/FBConnect/FBStreamDialog.h
+c000000004B505076000000000000083F
+t1263554678
+s2111
+i"FBConnect/FBDialog.h"
+
+N/Users/Elan/Dropbox/pursu.it/pursu.it/main.m
+c000000004DD964FD000000000000016C
+t1306092797
+s364
+i<UIKit/UIKit.h>
+
+N/Users/Elan/Dropbox/pursu.it/pursu.it/pursu_itViewController.xib
+c000000004DD964FD0000000000001A49
+t1306092797
+s6729
+
+N/Users/Elan/Dropbox/pursu.it/pursu.it/pursu_it_Prefix.pch
+c000000004DD964FD00000000000000B9
+t1306092797
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-bssagrlmptqrktaotyeucnpmsyjy/pursu_it_Prefix.pch.gch
+t1306095449
+s15453392
+
+N/var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-bvrhfoaqefmvotdxlvcaxafwxbof/pursu_it_Prefix.pch.gch
+t1306096423
+s15453392
+
+N/var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-cjobhdgfrlvrxxaythoytukzxqin/pursu_it_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-dlsxsupvlqytkycfdsseyzrkmdgn/pursu_it_Prefix.pch.gch
+t1306093321
+s15453392
+
+N/var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-dxwkknaguqcpqhceeqbrylpwtyqx/pursu_it_Prefix.pch.gch
+t1306103181
+s15453392
+
+N/var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-ednuxelxkdkoorfuzwokjxzfojgb/pursu_it_Prefix.pch.gch
+t1306095164
+s15453392
+
+N/var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-ejttrlzqlplyiydrsizvkvtudkyx/pursu_it_Prefix.pch.gch
+t1306102675
+s15453392
+
+N/var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-eqimxmjuxrjetmglajdvzhndeuud/pursu_it_Prefix.pch.gch
+t1306096362
+s15453392
+
+N/var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-fkvawltpdidctzgalekwhffzpexj/pursu_it_Prefix.pch.gch
+t1306095127
+s15453392
+
+N/var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-fvcudwkstyivvabbhqayiomlfqvs/pursu_it_Prefix.pch.gch
+t1306096349
+s15453392
+
+N/var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-fvrzkbczhlbkgtcuefezroorfrng/pursu_it_Prefix.pch.gch
+t1306102694
+s15453392
+
+N/var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-fxdxahfkuszkbjefcxowqmxvazhs/pursu_it_Prefix.pch.gch
+t1306095030
+s15453392
+
+N/var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-ghoefayypevltndwoatxklohtttg/pursu_it_Prefix.pch.gch
+t1306102955
+s15453392
+
+N/var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-hcmsugwjzgeuszagigtinsopcygt/pursu_it_Prefix.pch.gch
+t1306095077
+s15453392
+
+N/var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-hfhtdwtdqktzvbcotupsxrdmyfis/pursu_it_Prefix.pch.gch
+t1306095009
+s15453392
+
+N/var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-hfnsxmhaakkjwdcugpqpkuixrrqv/pursu_it_Prefix.pch.gch
+t1306095096
+s15453392
+
+Npursu_it-Info.plist
+c000000004DD964FD000000000000038D
+t1306092797
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies327795936#327795936#0(0"0(0#1#0"8615072640#0"0#
+
+CCompileC build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/FBConnectGlobal.o "/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBConnectGlobal.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s327795982.986889
+e327795982.995090
+r0
+xCompileC
+xbuild/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/FBConnectGlobal.o
+x/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBConnectGlobal.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: /Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBConnectGlobal.m: No such file or directory
+oi686-apple-darwin10-gcc-4.2.1: warning: '-x objective-c' after last input file has no effect
+oi686-apple-darwin10-gcc-4.2.1: no input files
+lSLF07#2@92"Compile /Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBConnectGlobal.m327795982#327795983#0(386"i686-apple-darwin10-gcc-4.2.1: /Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBConnectGlobal.m: No such file or directoryi686-apple-darwin10-gcc-4.2.1: warning: '-x objective-c' after last input file has no effecti686-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 failed with exit code 11(4@103"Command /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 failed with exit code 1327795982#18446744073709551615#0#0(1@0"0(0#0#84"/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBConnectGlobal.m8616575232#1996"    cd /Users/Elan/Dropbox/pursu.it/pursu.it    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-generated-files.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-own-target-headers.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-all-target-headers.hmap -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-project-headers.hmap -F/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator -iquotefacebook/src -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator/include -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources/i386 -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources -include /var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-dxwkknaguqcpqhceeqbrylpwtyqx/pursu_it_Prefix.pch -c "/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBConnectGlobal.m" -o /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/FBConnectGlobal.o1#
+
+CCompileC build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/FBDialog.o "/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBDialog.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s327795983.029756
+e327795983.037582
+r0
+xCompileC
+xbuild/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/FBDialog.o
+x/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBDialog.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: /Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBDialog.m: No such file or directory
+oi686-apple-darwin10-gcc-4.2.1: warning: '-x objective-c' after last input file has no effect
+oi686-apple-darwin10-gcc-4.2.1: no input files
+lSLF07#2@85"Compile /Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBDialog.m327795983#327795983#0(379"i686-apple-darwin10-gcc-4.2.1: /Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBDialog.m: No such file or directoryi686-apple-darwin10-gcc-4.2.1: warning: '-x objective-c' after last input file has no effecti686-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 failed with exit code 11(4@103"Command /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 failed with exit code 1327795983#18446744073709551615#0#0(1@0"0(0#0#77"/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBDialog.m8608678176#1982"    cd /Users/Elan/Dropbox/pursu.it/pursu.it    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-generated-files.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-own-target-headers.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-all-target-headers.hmap -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-project-headers.hmap -F/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator -iquotefacebook/src -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator/include -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources/i386 -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources -include /var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-dxwkknaguqcpqhceeqbrylpwtyqx/pursu_it_Prefix.pch -c "/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBDialog.m" -o /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/FBDialog.o1#
+
+CCompileC build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/FBLoginButton.o "/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBLoginButton.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s327795983.021465
+e327795983.029646
+r0
+xCompileC
+xbuild/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/FBLoginButton.o
+x/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBLoginButton.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: /Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBLoginButton.m: No such file or directory
+oi686-apple-darwin10-gcc-4.2.1: warning: '-x objective-c' after last input file has no effect
+oi686-apple-darwin10-gcc-4.2.1: no input files
+lSLF07#2@90"Compile /Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBLoginButton.m327795983#327795983#0(384"i686-apple-darwin10-gcc-4.2.1: /Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBLoginButton.m: No such file or directoryi686-apple-darwin10-gcc-4.2.1: warning: '-x objective-c' after last input file has no effecti686-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 failed with exit code 11(4@103"Command /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 failed with exit code 1327795983#18446744073709551615#0#0(1@0"0(0#0#82"/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBLoginButton.m8610160384#1992"    cd /Users/Elan/Dropbox/pursu.it/pursu.it    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-generated-files.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-own-target-headers.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-all-target-headers.hmap -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-project-headers.hmap -F/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator -iquotefacebook/src -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator/include -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources/i386 -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources -include /var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-dxwkknaguqcpqhceeqbrylpwtyqx/pursu_it_Prefix.pch -c "/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBLoginButton.m" -o /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/FBLoginButton.o1#
+
+CCompileC build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/FBLoginDialog.o "/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBLoginDialog.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s327795983.037683
+e327795983.045792
+r0
+xCompileC
+xbuild/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/FBLoginDialog.o
+x/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBLoginDialog.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: /Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBLoginDialog.m: No such file or directory
+oi686-apple-darwin10-gcc-4.2.1: warning: '-x objective-c' after last input file has no effect
+oi686-apple-darwin10-gcc-4.2.1: no input files
+lSLF07#2@90"Compile /Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBLoginDialog.m327795983#327795983#0(384"i686-apple-darwin10-gcc-4.2.1: /Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBLoginDialog.m: No such file or directoryi686-apple-darwin10-gcc-4.2.1: warning: '-x objective-c' after last input file has no effecti686-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 failed with exit code 11(4@103"Command /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 failed with exit code 1327795983#18446744073709551615#0#0(1@0"0(0#0#82"/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBLoginDialog.m8607857184#1992"    cd /Users/Elan/Dropbox/pursu.it/pursu.it    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-generated-files.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-own-target-headers.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-all-target-headers.hmap -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-project-headers.hmap -F/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator -iquotefacebook/src -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator/include -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources/i386 -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources -include /var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-dxwkknaguqcpqhceeqbrylpwtyqx/pursu_it_Prefix.pch -c "/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBLoginDialog.m" -o /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/FBLoginDialog.o1#
+
+CCompileC build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/FBPermissionDialog.o "/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBPermissionDialog.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s327795983.045891
+e327795983.052726
+r0
+xCompileC
+xbuild/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/FBPermissionDialog.o
+x/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBPermissionDialog.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: /Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBPermissionDialog.m: No such file or directory
+oi686-apple-darwin10-gcc-4.2.1: warning: '-x objective-c' after last input file has no effect
+oi686-apple-darwin10-gcc-4.2.1: no input files
+lSLF07#2@95"Compile /Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBPermissionDialog.m327795983#327795983#0(389"i686-apple-darwin10-gcc-4.2.1: /Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBPermissionDialog.m: No such file or directoryi686-apple-darwin10-gcc-4.2.1: warning: '-x objective-c' after last input file has no effecti686-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 failed with exit code 11(4@103"Command /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 failed with exit code 1327795983#18446744073709551615#0#0(1@0"0(0#0#87"/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBPermissionDialog.m8601292800#2002"    cd /Users/Elan/Dropbox/pursu.it/pursu.it    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-generated-files.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-own-target-headers.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-all-target-headers.hmap -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-project-headers.hmap -F/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator -iquotefacebook/src -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator/include -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources/i386 -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources -include /var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-dxwkknaguqcpqhceeqbrylpwtyqx/pursu_it_Prefix.pch -c "/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBPermissionDialog.m" -o /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/FBPermissionDialog.o1#
+
+CCompileC build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/FBRequest.o "/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBRequest.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s327795983.003887
+e327795983.012487
+r0
+xCompileC
+xbuild/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/FBRequest.o
+x/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBRequest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: /Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBRequest.m: No such file or directory
+oi686-apple-darwin10-gcc-4.2.1: warning: '-x objective-c' after last input file has no effect
+oi686-apple-darwin10-gcc-4.2.1: no input files
+lSLF07#2@86"Compile /Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBRequest.m327795983#327795983#0(380"i686-apple-darwin10-gcc-4.2.1: /Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBRequest.m: No such file or directoryi686-apple-darwin10-gcc-4.2.1: warning: '-x objective-c' after last input file has no effecti686-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 failed with exit code 11(4@103"Command /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 failed with exit code 1327795983#18446744073709551615#0#0(1@0"0(0#0#78"/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBRequest.m8610385728#1984"    cd /Users/Elan/Dropbox/pursu.it/pursu.it    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-generated-files.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-own-target-headers.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-all-target-headers.hmap -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-project-headers.hmap -F/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator -iquotefacebook/src -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator/include -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources/i386 -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources -include /var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-dxwkknaguqcpqhceeqbrylpwtyqx/pursu_it_Prefix.pch -c "/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBRequest.m" -o /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/FBRequest.o1#
+
+CCompileC build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/FBSession.o "/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBSession.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s327795982.995194
+e327795983.003791
+r0
+xCompileC
+xbuild/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/FBSession.o
+x/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBSession.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: /Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBSession.m: No such file or directory
+oi686-apple-darwin10-gcc-4.2.1: warning: '-x objective-c' after last input file has no effect
+oi686-apple-darwin10-gcc-4.2.1: no input files
+lSLF07#2@86"Compile /Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBSession.m327795982#327795983#0(380"i686-apple-darwin10-gcc-4.2.1: /Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBSession.m: No such file or directoryi686-apple-darwin10-gcc-4.2.1: warning: '-x objective-c' after last input file has no effecti686-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 failed with exit code 11(4@103"Command /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 failed with exit code 1327795983#18446744073709551615#0#0(1@0"0(0#0#78"/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBSession.m8614280864#1984"    cd /Users/Elan/Dropbox/pursu.it/pursu.it    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-generated-files.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-own-target-headers.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-all-target-headers.hmap -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-project-headers.hmap -F/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator -iquotefacebook/src -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator/include -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources/i386 -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources -include /var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-dxwkknaguqcpqhceeqbrylpwtyqx/pursu_it_Prefix.pch -c "/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBSession.m" -o /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/FBSession.o1#
+
+CCompileC build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/FBStreamDialog.o "/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBStreamDialog.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s327795983.052822
+e327795983.061493
+r0
+xCompileC
+xbuild/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/FBStreamDialog.o
+x/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBStreamDialog.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: /Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBStreamDialog.m: No such file or directory
+oi686-apple-darwin10-gcc-4.2.1: warning: '-x objective-c' after last input file has no effect
+oi686-apple-darwin10-gcc-4.2.1: no input files
+lSLF07#2@91"Compile /Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBStreamDialog.m327795983#327795983#0(385"i686-apple-darwin10-gcc-4.2.1: /Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBStreamDialog.m: No such file or directoryi686-apple-darwin10-gcc-4.2.1: warning: '-x objective-c' after last input file has no effecti686-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 failed with exit code 11(4@103"Command /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 failed with exit code 1327795983#18446744073709551615#0#0(1@0"0(0#0#83"/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBStreamDialog.m8619193984#1994"    cd /Users/Elan/Dropbox/pursu.it/pursu.it    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-generated-files.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-own-target-headers.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-all-target-headers.hmap -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-project-headers.hmap -F/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator -iquotefacebook/src -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator/include -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources/i386 -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources -include /var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-dxwkknaguqcpqhceeqbrylpwtyqx/pursu_it_Prefix.pch -c "/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBStreamDialog.m" -o /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/FBStreamDialog.o1#
+
+CCompileC build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/FBXMLHandler.o "/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBXMLHandler.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s327795983.012589
+e327795983.021358
+r0
+xCompileC
+xbuild/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/FBXMLHandler.o
+x/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBXMLHandler.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: /Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBXMLHandler.m: No such file or directory
+oi686-apple-darwin10-gcc-4.2.1: warning: '-x objective-c' after last input file has no effect
+oi686-apple-darwin10-gcc-4.2.1: no input files
+lSLF07#2@89"Compile /Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBXMLHandler.m327795983#327795983#0(383"i686-apple-darwin10-gcc-4.2.1: /Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBXMLHandler.m: No such file or directoryi686-apple-darwin10-gcc-4.2.1: warning: '-x objective-c' after last input file has no effecti686-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 failed with exit code 11(4@103"Command /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 failed with exit code 1327795983#18446744073709551615#0#0(1@0"0(0#0#81"/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBXMLHandler.m8603875296#1990"    cd /Users/Elan/Dropbox/pursu.it/pursu.it    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-generated-files.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-own-target-headers.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-all-target-headers.hmap -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-project-headers.hmap -F/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator -iquotefacebook/src -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator/include -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources/i386 -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources -include /var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-dxwkknaguqcpqhceeqbrylpwtyqx/pursu_it_Prefix.pch -c "/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBXMLHandler.m" -o /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/FBXMLHandler.o1#
+
+CCompileC build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/main.o /Users/Elan/Dropbox/pursu.it/pursu.it/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327795982.063689
+e327795982.948220
+r1
+xCompileC
+xbuild/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/main.o
+x/Users/Elan/Dropbox/pursu.it/pursu.it/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/Elan/Dropbox/pursu.it/pursu.it/main.m327795982#327795982#0(0"0(0#0#44"/Users/Elan/Dropbox/pursu.it/pursu.it/main.m8614828192#1943"    cd /Users/Elan/Dropbox/pursu.it/pursu.it    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-generated-files.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-own-target-headers.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-all-target-headers.hmap -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-project-headers.hmap -F/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator -iquotefacebook/src -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator/include -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources/i386 -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources -include /var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-dxwkknaguqcpqhceeqbrylpwtyqx/pursu_it_Prefix.pch -c /Users/Elan/Dropbox/pursu.it/pursu.it/main.m -o /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/main.o0#
+
+CCompileC build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/pursu_itAppDelegate.o /Users/Elan/Dropbox/pursu.it/pursu.it/Classes/pursu_itAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327795982.074325
+e327795982.986772
+r1
+xCompileC
+xbuild/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/pursu_itAppDelegate.o
+x/Users/Elan/Dropbox/pursu.it/pursu.it/Classes/pursu_itAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/Elan/Dropbox/pursu.it/pursu.it/Classes/pursu_itAppDelegate.m327795982#327795982#0(0"0(0#0#67"/Users/Elan/Dropbox/pursu.it/pursu.it/Classes/pursu_itAppDelegate.m8613105920#1981"    cd /Users/Elan/Dropbox/pursu.it/pursu.it    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-generated-files.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-own-target-headers.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-all-target-headers.hmap -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-project-headers.hmap -F/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator -iquotefacebook/src -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator/include -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources/i386 -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources -include /var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-dxwkknaguqcpqhceeqbrylpwtyqx/pursu_it_Prefix.pch -c /Users/Elan/Dropbox/pursu.it/pursu.it/Classes/pursu_itAppDelegate.m -o /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/pursu_itAppDelegate.o0#
+
+CCompileC build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/pursu_itViewController.o /Users/Elan/Dropbox/pursu.it/pursu.it/Classes/pursu_itViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327795982.948330
+e327795983.071006
+r1
+xCompileC
+xbuild/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/pursu_itViewController.o
+x/Users/Elan/Dropbox/pursu.it/pursu.it/Classes/pursu_itViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Elan/Dropbox/pursu.it/pursu.it/Classes/pursu_itViewController.m: In function '-[pursu_itViewController viewDidLoad]':
+o/Users/Elan/Dropbox/pursu.it/pursu.it/Classes/pursu_itViewController.m:50: warning: class 'pursu_itViewController' does not implement the 'FBSessionDelegate' protocol
+o/Users/Elan/Dropbox/pursu.it/pursu.it/Classes/pursu_itViewController.m: In function '-[pursu_itViewController getFacebookName]':
+o/Users/Elan/Dropbox/pursu.it/pursu.it/Classes/pursu_itViewController.m:102: warning: class 'pursu_itViewController' does not implement the 'FBRequestDelegate' protocol
+lSLF07#2@78"Compile /Users/Elan/Dropbox/pursu.it/pursu.it/Classes/pursu_itViewController.m327795982#327795983#0(589"/Users/Elan/Dropbox/pursu.it/pursu.it/Classes/pursu_itViewController.m: In function '-[pursu_itViewController viewDidLoad]':/Users/Elan/Dropbox/pursu.it/pursu.it/Classes/pursu_itViewController.m:50: warning: class 'pursu_itViewController' does not implement the 'FBSessionDelegate' protocol/Users/Elan/Dropbox/pursu.it/pursu.it/Classes/pursu_itViewController.m: In function '-[pursu_itViewController getFacebookName]':/Users/Elan/Dropbox/pursu.it/pursu.it/Classes/pursu_itViewController.m:102: warning: class 'pursu_itViewController' does not implement the 'FBRequestDelegate' protocol2(22@82"Class 'pursu_itViewController' does not implement the 'FBSessionDelegate' protocol327795982#125#167#0(6@70"/Users/Elan/Dropbox/pursu.it/pursu.it/Classes/pursu_itViewController.m327791379#50#0#50#0#45"class '*' does not implement the '*' protocol0(22@82"Class 'pursu_itViewController' does not implement the 'FBRequestDelegate' protocol327795982#421#168#0(6@70"/Users/Elan/Dropbox/pursu.it/pursu.it/Classes/pursu_itViewController.m327791379#102#0#102#0#45"class '*' does not implement the '*' protocol0(0#0#70"/Users/Elan/Dropbox/pursu.it/pursu.it/Classes/pursu_itViewController.m8617965024#1987"    cd /Users/Elan/Dropbox/pursu.it/pursu.it    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-generated-files.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-own-target-headers.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-all-target-headers.hmap -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-project-headers.hmap -F/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator -iquotefacebook/src -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator/include -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources/i386 -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources -include /var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-dxwkknaguqcpqhceeqbrylpwtyqx/pursu_it_Prefix.pch -c /Users/Elan/Dropbox/pursu.it/pursu.it/Classes/pursu_itViewController.m -o /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/Objects-normal/i386/pursu_itViewController.o0#
+
+CCompileXIB /Users/Elan/Dropbox/pursu.it/pursu.it/MainWindow.xib
+s327795936.134130
+e327795962.846370
+r1
+xCompileXIB
+x/Users/Elan/Dropbox/pursu.it/pursu.it/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib327795936#327795962#0(0"0(0#0#52"/Users/Elan/Dropbox/pursu.it/pursu.it/MainWindow.xib8618976608#568"    cd /Users/Elan/Dropbox/pursu.it/pursu.it    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator/pursu.it.app/MainWindow.nib /Users/Elan/Dropbox/pursu.it/pursu.it/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/Elan/Dropbox/pursu.it/pursu.it/pursu_itViewController.xib
+s327795936.134980
+e327795962.875765
+r1
+xCompileXIB
+x/Users/Elan/Dropbox/pursu.it/pursu.it/pursu_itViewController.xib
+lSLF07#2@37"CompileXIB pursu_itViewController.xib327795936#327795962#0(0"0(0#0#64"/Users/Elan/Dropbox/pursu.it/pursu.it/pursu_itViewController.xib8618717248#592"    cd /Users/Elan/Dropbox/pursu.it/pursu.it    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator/pursu.it.app/pursu_itViewController.nib /Users/Elan/Dropbox/pursu.it/pursu.it/pursu_itViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/pursu.it.app/FBConnect.bundle "../../Things to Use/facebook/FBConnect.bundle"
+s327795962.846646
+e327795962.919778
+r0
+xCpResource
+xbuild/Debug-iphonesimulator/pursu.it.app/FBConnect.bundle
+x../../Things to Use/facebook/FBConnect.bundle
+opbxcp: FBConnect.bundle: No such file or directory
+lSLF07#2@50"Copy ../../Things to Use/facebook/FBConnect.bundle327795962#327795962#0(51"pbxcp: FBConnect.bundle: No such file or directory1(4@50"pbxcp: FBConnect.bundle: No such file or directory327795962#18446744073709551615#0#0(6@0"327795962#0#0#0#0#0"0(0#0#83"/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBConnect.bundle8621552640#503"    cd /Users/Elan/Dropbox/pursu.it/pursu.it    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Elan/Dropbox/pursu.it/pursu.it/../../Things to Use/facebook/FBConnect.bundle" /Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator/pursu.it.app1#
+
+CGenerateDSYMFile /Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator/pursu.it.app.dSYM /Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator/pursu.it.app/pursu.it
+r0
+
+CLd /Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator/pursu.it.app/pursu.it normal i386
+r0
+
+CProcessInfoPlistFile /Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator/pursu.it.app/Info.plist pursu_it-Info.plist
+s327795936.099437
+e327795936.134035
+r1
+xProcessInfoPlistFile
+x/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator/pursu.it.app/Info.plist
+xpursu_it-Info.plist
+lSLF07#2@27"Process pursu_it-Info.plist327795936#327795936#0(0"0(0#0#57"/Users/Elan/Dropbox/pursu.it/pursu.it/pursu_it-Info.plist8619248544#479"    cd /Users/Elan/Dropbox/pursu.it/pursu.it    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility pursu_it-Info.plist -genpkginfo /Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator/pursu.it.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator/pursu.it.app/Info.plist0#
+
+CProcessPCH /var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-bssagrlmptqrktaotyeucnpmsyjy/pursu_it_Prefix.pch.gch pursu_it_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s327788245.461492
+e327788250.103434
+r1
+xProcessPCH
+x/var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-bssagrlmptqrktaotyeucnpmsyjy/pursu_it_Prefix.pch.gch
+xpursu_it_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile pursu_it_Prefix.pch327788245#327788250#0(0"0(0#0#57"/Users/Elan/Dropbox/pursu.it/pursu.it/pursu_it_Prefix.pch8613320192#1838"    cd /Users/Elan/Dropbox/pursu.it/pursu.it    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-generated-files.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-own-target-headers.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-all-target-headers.hmap -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-project-headers.hmap -F/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator -iquote../facebook/src -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator/include -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources/i386 -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources -c /Users/Elan/Dropbox/pursu.it/pursu.it/pursu_it_Prefix.pch -o /var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-bssagrlmptqrktaotyeucnpmsyjy/pursu_it_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-bvrhfoaqefmvotdxlvcaxafwxbof/pursu_it_Prefix.pch.gch pursu_it_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s327789215.762957
+e327789223.475358
+r1
+xProcessPCH
+x/var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-bvrhfoaqefmvotdxlvcaxafwxbof/pursu_it_Prefix.pch.gch
+xpursu_it_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile pursu_it_Prefix.pch327789215#327789223#0(0"0(0#0#57"/Users/Elan/Dropbox/pursu.it/pursu.it/pursu_it_Prefix.pch8609573792#1873"    cd /Users/Elan/Dropbox/pursu.it/pursu.it    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-generated-files.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-own-target-headers.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-all-target-headers.hmap -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-project-headers.hmap -F/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator -iquote/Users/Elan/Dropbox/pursu.it/pursu.it/facebook/src -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator/include -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources/i386 -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources -c /Users/Elan/Dropbox/pursu.it/pursu.it/pursu_it_Prefix.pch -o /var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-bvrhfoaqefmvotdxlvcaxafwxbof/pursu_it_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-cjobhdgfrlvrxxaythoytukzxqin/pursu_it_Prefix.pch.gch pursu_it_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-dlsxsupvlqytkycfdsseyzrkmdgn/pursu_it_Prefix.pch.gch pursu_it_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s327786108.434105
+e327786123.777374
+r1
+xProcessPCH
+x/var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-dlsxsupvlqytkycfdsseyzrkmdgn/pursu_it_Prefix.pch.gch
+xpursu_it_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile pursu_it_Prefix.pch327786108#327786123#0(0"0(0#0#57"/Users/Elan/Dropbox/pursu.it/pursu.it/pursu_it_Prefix.pch8609103872#1879"    cd /Users/Elan/Dropbox/pursu.it/pursu.it    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-generated-files.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-own-target-headers.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-all-target-headers.hmap -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-project-headers.hmap -F/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator -iquote/Users/Elan/Dropbox/Things -iquoteto -iquoteUse/facebook -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator/include -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources/i386 -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources -c /Users/Elan/Dropbox/pursu.it/pursu.it/pursu_it_Prefix.pch -o /var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-dlsxsupvlqytkycfdsseyzrkmdgn/pursu_it_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-dxwkknaguqcpqhceeqbrylpwtyqx/pursu_it_Prefix.pch.gch pursu_it_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s327795962.919893
+e327795982.063289
+r1
+xProcessPCH
+x/var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-dxwkknaguqcpqhceeqbrylpwtyqx/pursu_it_Prefix.pch.gch
+xpursu_it_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile pursu_it_Prefix.pch327795962#327795982#0(0"0(0#0#57"/Users/Elan/Dropbox/pursu.it/pursu.it/pursu_it_Prefix.pch8618449184#1835"    cd /Users/Elan/Dropbox/pursu.it/pursu.it    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-generated-files.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-own-target-headers.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-all-target-headers.hmap -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-project-headers.hmap -F/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator -iquotefacebook/src -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator/include -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources/i386 -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources -c /Users/Elan/Dropbox/pursu.it/pursu.it/pursu_it_Prefix.pch -o /var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-dxwkknaguqcpqhceeqbrylpwtyqx/pursu_it_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-ednuxelxkdkoorfuzwokjxzfojgb/pursu_it_Prefix.pch.gch pursu_it_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s327787946.346831
+e327787964.675319
+r1
+xProcessPCH
+x/var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-ednuxelxkdkoorfuzwokjxzfojgb/pursu_it_Prefix.pch.gch
+xpursu_it_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile pursu_it_Prefix.pch327787946#327787964#0(0"0(0#0#57"/Users/Elan/Dropbox/pursu.it/pursu.it/pursu_it_Prefix.pch8606181696#1877"    cd /Users/Elan/Dropbox/pursu.it/pursu.it    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-generated-files.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-own-target-headers.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-all-target-headers.hmap -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-project-headers.hmap -F/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator -iquote.../Users/Elan/Dropbox/Things -iquoteto -iquoteUse/src -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator/include -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources/i386 -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources -c /Users/Elan/Dropbox/pursu.it/pursu.it/pursu_it_Prefix.pch -o /var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-ednuxelxkdkoorfuzwokjxzfojgb/pursu_it_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-ejttrlzqlplyiydrsizvkvtudkyx/pursu_it_Prefix.pch.gch pursu_it_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s327795467.326835
+e327795475.404515
+r1
+xProcessPCH
+x/var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-ejttrlzqlplyiydrsizvkvtudkyx/pursu_it_Prefix.pch.gch
+xpursu_it_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile pursu_it_Prefix.pch327795467#327795475#0(0"0(0#0#57"/Users/Elan/Dropbox/pursu.it/pursu.it/pursu_it_Prefix.pch8613295328#1836"    cd /Users/Elan/Dropbox/pursu.it/pursu.it    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-generated-files.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-own-target-headers.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-all-target-headers.hmap -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-project-headers.hmap -F/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator -iquote/facebook/src -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator/include -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources/i386 -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources -c /Users/Elan/Dropbox/pursu.it/pursu.it/pursu_it_Prefix.pch -o /var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-ejttrlzqlplyiydrsizvkvtudkyx/pursu_it_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-eqimxmjuxrjetmglajdvzhndeuud/pursu_it_Prefix.pch.gch pursu_it_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s327789162.090343
+e327789163.596776
+r1
+xProcessPCH
+x/var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-eqimxmjuxrjetmglajdvzhndeuud/pursu_it_Prefix.pch.gch
+xpursu_it_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile pursu_it_Prefix.pch327789162#327789163#0(0"0(0#0#57"/Users/Elan/Dropbox/pursu.it/pursu.it/pursu_it_Prefix.pch8613244832#1848"    cd /Users/Elan/Dropbox/pursu.it/pursu.it    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-generated-files.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-own-target-headers.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-all-target-headers.hmap -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-project-headers.hmap -F/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator -iquote.../pursu.it/facebook/src -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator/include -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources/i386 -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources -c /Users/Elan/Dropbox/pursu.it/pursu.it/pursu_it_Prefix.pch -o /var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-eqimxmjuxrjetmglajdvzhndeuud/pursu_it_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-fkvawltpdidctzgalekwhffzpexj/pursu_it_Prefix.pch.gch pursu_it_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s327787916.413748
+e327787927.313346
+r1
+xProcessPCH
+x/var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-fkvawltpdidctzgalekwhffzpexj/pursu_it_Prefix.pch.gch
+xpursu_it_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile pursu_it_Prefix.pch327787916#327787927#0(0"0(0#0#57"/Users/Elan/Dropbox/pursu.it/pursu.it/pursu_it_Prefix.pch8610730304#1876"    cd /Users/Elan/Dropbox/pursu.it/pursu.it    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-generated-files.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-own-target-headers.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-all-target-headers.hmap -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-project-headers.hmap -F/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator -iquote.../User/Elan/Dropbox/Things -iquoteto -iquoteUse/src -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator/include -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources/i386 -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources -c /Users/Elan/Dropbox/pursu.it/pursu.it/pursu_it_Prefix.pch -o /var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-fkvawltpdidctzgalekwhffzpexj/pursu_it_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-fvcudwkstyivvabbhqayiomlfqvs/pursu_it_Prefix.pch.gch pursu_it_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s327789146.632711
+e327789149.668170
+r1
+xProcessPCH
+x/var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-fvcudwkstyivvabbhqayiomlfqvs/pursu_it_Prefix.pch.gch
+xpursu_it_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile pursu_it_Prefix.pch327789146#327789149#0(0"0(0#0#57"/Users/Elan/Dropbox/pursu.it/pursu.it/pursu_it_Prefix.pch8610275552#1839"    cd /Users/Elan/Dropbox/pursu.it/pursu.it    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-generated-files.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-own-target-headers.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-all-target-headers.hmap -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-project-headers.hmap -F/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator -iquote.../facebook/src -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator/include -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources/i386 -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources -c /Users/Elan/Dropbox/pursu.it/pursu.it/pursu_it_Prefix.pch -o /var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-fvcudwkstyivvabbhqayiomlfqvs/pursu_it_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-fvrzkbczhlbkgtcuefezroorfrng/pursu_it_Prefix.pch.gch pursu_it_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s327795485.808713
+e327795494.922373
+r1
+xProcessPCH
+x/var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-fvrzkbczhlbkgtcuefezroorfrng/pursu_it_Prefix.pch.gch
+xpursu_it_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile pursu_it_Prefix.pch327795485#327795494#0(0"0(0#0#57"/Users/Elan/Dropbox/pursu.it/pursu.it/pursu_it_Prefix.pch8622113152#1841"    cd /Users/Elan/Dropbox/pursu.it/pursu.it    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-generated-files.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-own-target-headers.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-all-target-headers.hmap -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-project-headers.hmap -F/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator -iquote../../facebook/src -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator/include -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources/i386 -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources -c /Users/Elan/Dropbox/pursu.it/pursu.it/pursu_it_Prefix.pch -o /var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-fvrzkbczhlbkgtcuefezroorfrng/pursu_it_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-fxdxahfkuszkbjefcxowqmxvazhs/pursu_it_Prefix.pch.gch pursu_it_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s327787826.730824
+e327787831.290224
+r1
+xProcessPCH
+x/var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-fxdxahfkuszkbjefcxowqmxvazhs/pursu_it_Prefix.pch.gch
+xpursu_it_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile pursu_it_Prefix.pch327787826#327787831#0(0"0(0#0#57"/Users/Elan/Dropbox/pursu.it/pursu.it/pursu_it_Prefix.pch8610871552#1876"    cd /Users/Elan/Dropbox/pursu.it/pursu.it    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-generated-files.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-own-target-headers.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-all-target-headers.hmap -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-project-headers.hmap -F/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator -iquote.../Elan/Dropbox/Things -iquoteto -iquoteUse/facebook -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator/include -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources/i386 -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources -c /Users/Elan/Dropbox/pursu.it/pursu.it/pursu_it_Prefix.pch -o /var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-fxdxahfkuszkbjefcxowqmxvazhs/pursu_it_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-ghoefayypevltndwoatxklohtttg/pursu_it_Prefix.pch.gch pursu_it_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s327795748.151408
+e327795755.415659
+r1
+xProcessPCH
+x/var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-ghoefayypevltndwoatxklohtttg/pursu_it_Prefix.pch.gch
+xpursu_it_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile pursu_it_Prefix.pch327795748#327795755#0(0"0(0#0#57"/Users/Elan/Dropbox/pursu.it/pursu.it/pursu_it_Prefix.pch8622195904#1826"    cd /Users/Elan/Dropbox/pursu.it/pursu.it    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-generated-files.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-own-target-headers.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-all-target-headers.hmap -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-project-headers.hmap -F/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator -iquotesrc -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator/include -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources/i386 -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources -c /Users/Elan/Dropbox/pursu.it/pursu.it/pursu_it_Prefix.pch -o /var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-ghoefayypevltndwoatxklohtttg/pursu_it_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-hcmsugwjzgeuszagigtinsopcygt/pursu_it_Prefix.pch.gch pursu_it_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s327787872.291992
+e327787878.615747
+r1
+xProcessPCH
+x/var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-hcmsugwjzgeuszagigtinsopcygt/pursu_it_Prefix.pch.gch
+xpursu_it_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile pursu_it_Prefix.pch327787872#327787878#0(0"0(0#0#57"/Users/Elan/Dropbox/pursu.it/pursu.it/pursu_it_Prefix.pch8601839968#1871"    cd /Users/Elan/Dropbox/pursu.it/pursu.it    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-generated-files.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-own-target-headers.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-all-target-headers.hmap -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-project-headers.hmap -F/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator -iquote.../Elan/Dropbox/Things -iquoteto -iquoteUse/src -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator/include -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources/i386 -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources -c /Users/Elan/Dropbox/pursu.it/pursu.it/pursu_it_Prefix.pch -o /var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-hcmsugwjzgeuszagigtinsopcygt/pursu_it_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-hfhtdwtdqktzvbcotupsxrdmyfis/pursu_it_Prefix.pch.gch pursu_it_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s327787802.016649
+e327787809.554383
+r1
+xProcessPCH
+x/var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-hfhtdwtdqktzvbcotupsxrdmyfis/pursu_it_Prefix.pch.gch
+xpursu_it_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile pursu_it_Prefix.pch327787802#327787809#0(0"0(0#0#57"/Users/Elan/Dropbox/pursu.it/pursu.it/pursu_it_Prefix.pch8610683264#1871"    cd /Users/Elan/Dropbox/pursu.it/pursu.it    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-generated-files.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-own-target-headers.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-all-target-headers.hmap -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-project-headers.hmap -F/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator -iquote.../Dropbox/Things -iquoteto -iquoteUse/facebook -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator/include -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources/i386 -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources -c /Users/Elan/Dropbox/pursu.it/pursu.it/pursu_it_Prefix.pch -o /var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-hfhtdwtdqktzvbcotupsxrdmyfis/pursu_it_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-hfnsxmhaakkjwdcugpqpkuixrrqv/pursu_it_Prefix.pch.gch pursu_it_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s327787891.629128
+e327787896.475055
+r1
+xProcessPCH
+x/var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-hfnsxmhaakkjwdcugpqpkuixrrqv/pursu_it_Prefix.pch.gch
+xpursu_it_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile pursu_it_Prefix.pch327787891#327787896#0(0"0(0#0#57"/Users/Elan/Dropbox/pursu.it/pursu.it/pursu_it_Prefix.pch8607949024#1866"    cd /Users/Elan/Dropbox/pursu.it/pursu.it    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-generated-files.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-own-target-headers.hmap -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-all-target-headers.hmap -iquote /Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/pursu.it-project-headers.hmap -F/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator -iquote.../Dropbox/Things -iquoteto -iquoteUse/src -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator/include -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources/i386 -I/Users/Elan/Dropbox/pursu.it/pursu.it/build/pursu.it.build/Debug-iphonesimulator/pursu.it.build/DerivedSources -c /Users/Elan/Dropbox/pursu.it/pursu.it/pursu_it_Prefix.pch -o /var/folders/8j/8jsiwmzWF14HUrnDaI91yU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pursu_it_Prefix-hfnsxmhaakkjwdcugpqpkuixrrqv/pursu_it_Prefix.pch.gch0#
+
+CTouch /Users/Elan/Dropbox/pursu.it/pursu.it/build/Debug-iphonesimulator/pursu.it.app
+r0
+
